@@ -1,4 +1,7 @@
-### **Nombre: Edgar Josías** ### **Cán Ajquejay** ### **Carnet: 202112012** ### TAREA 2
+### **Nombre: Edgar Josías** 
+### **Cán Ajquejay** 
+### **Carnet: 202112012** 
+### TAREA 2
 
 Dado un sitio web de ventas online como ebay, amazon o walmart, realizar una lista de todos los requerimientos funcionales y no funcionales que se deben implementar para que esa pagina funciona correctamente. Identifique los actores y realice el diagrama de casos de usos.
 
@@ -123,3 +126,5 @@ Dado un sitio web de ventas online como ebay, amazon o walmart, realizar una lis
 * **RNF024**: Backup automático diario de datos 
 * **RNF025**: Monitoreo de sistema 24/7
 
+## DIAGRAMA UML
+![topologia](UML.png)
